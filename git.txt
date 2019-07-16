@@ -1,0 +1,6 @@
+// change the commit message to improve
+git commit --amend -m "New commit message"
+
+// to commit the 6 th file with same message
+git commit --amend --no-edit
+// --no-edit means that the commit message does not change.
